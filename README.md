@@ -42,17 +42,22 @@ We build digital products around real business requirements — from custom webs
 
 <td width="33%" align="center">
 
+<table>
+<tr>
+
+<td width="33%" align="center" style="background: linear-gradient(135deg, #000000, #06152e, #006eff);">
+
 ### 🏢 MACENZA
 
 Modern digital solutions for businesses.
 
 **Websites · Web Apps · Automation**
 
-[![VIEW PROJECT →](https://img.shields.io/badge/VIEW_PROJECT_→-006eff?style=for-the-badge&labelColor=000000&color=006eff)](https://www.macenza.com/)
+[VIEW PROJECT →](https://www.macenza.com/)
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" align="center" style="background: linear-gradient(135deg, #000000, #06152e, #006eff);">
 
 ### 👥 HRENSO
 
@@ -60,11 +65,11 @@ Modern HRMS and business management.
 
 **HRMS · Management · Business Tools**
 
-[![VIEW PROJECT →](https://img.shields.io/badge/VIEW_PROJECT_→-006eff?style=for-the-badge&labelColor=000000&color=006eff)](https://www.hrenso.com/)
+[VIEW PROJECT →](https://www.hrenso.com/)
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" align="center" style="background: linear-gradient(135deg, #000000, #06152e, #006eff);">
 
 ### 👕 DIPLiM
 
@@ -72,7 +77,7 @@ Modern fashion and digital shopping experience.
 
 **Fashion · E-Commerce · Digital Experience**
 
-[![VIEW PROJECT →](https://img.shields.io/badge/VIEW_PROJECT_→-006eff?style=for-the-badge&labelColor=000000&color=006eff)](https://www.diplim.com/)
+[VIEW PROJECT →](https://www.diplim.com/)
 
 </td>
 
