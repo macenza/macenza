@@ -54,7 +54,7 @@ We build digital products around real business requirements — from custom webs
 
 <td width="40%" align="center" valign="middle">
 
-<img src="https://www.behance.net/gallery/63153913/Gif-collection/modules/370487761"/>
+<img src="https://designedbythomas.co.uk/blog/motion-graphics-project-gifs/"/>
 
 </td>
 </tr>
