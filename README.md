@@ -54,7 +54,7 @@ We build digital products around real business requirements — from custom webs
 
 <td width="40%" align="center" valign="middle">
 
-<img src="DIRECT-GIF-URL-HERE" width="300" alt="Macenza Animation"/>
+<img src="DIRECT-GIF-URL-HERE" width="300" alt="https://www.behance.net/gallery/63153913/Gif-collection/modules/370487761"/>
 
 </td>
 </tr>
