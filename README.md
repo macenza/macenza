@@ -35,11 +35,8 @@
     <td width="60%">
 
 <b>Macenza</b> creates modern digital experiences by combining thoughtful design, reliable development, and practical business solutions.
-
-<br><br>
-
-We build digital products around real business requirements — from custom websites and web applications to automation, modern interfaces, and scalable digital systems.
-
+<br>
+We build digital products around real business requirements — from custom websites and web applications to automation, modern interfaces, and scalable digital systems
 <br><br>
 
 <b>Our approach:</b>
