@@ -54,7 +54,7 @@ We build digital products around real business requirements — from custom webs
 
 <td width="40%" align="center" valign="middle">
 
-<img src="[[https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" width="250" alt="Coding GIF](https://mir-s3-cdn-cf.behance.net/project_modules/disp/25b91563153913.5aa7c1fa7402f.gif)](https://www.google.com/search?q=graphics+gif&sca_esv=f1e39d9e3676cfb0&udm=2&biw=1396&bih=675&sxsrf=APpeQnuuctV0HBiyxVdaOJ4AZTcjeXe1lg%3A1789960507341&ei=O6GwasiuFNmJjuMPnIeIwAE&ved=2ahUKEwiIuM7B2v6WAxXZhGMGHZwDAhgQ4dUDegQIBhAN&uact=5&oq=graphics+gif&gs_lp=Egtnd3Mtd2l6LWltZyIMZ3JhcGhpY3MgZ2lmMgcQIxjJAhgnSLAXUJESWJEScAF4AJABAJgBAKABAKoBALgBA8gBAPgBAZgCAaACBZgDAIgGAZIHATGgBwCyBwC4BwDCBwMyLTHIBwOACAE&sclient=gws-wiz-img#sv=CAMSXhoyKhBlLUlPcExZT2JsWTJfdkFNMg5JT3BMWU9ibFkyX3ZBTToOTW1KRUxXczQxTVBJdE0gBCokCg5oWWxoYlJYRTExTW5jTRIQZS1JT3BMWU9ibFkyX3ZBTRgAMAEYByDy1fObD0oIEAEYASABKAE)"/>
+<img src="https://www.behance.net/gallery/63153913/Gif-collection/modules/370487761"/>
 
 </td>
 </tr>
