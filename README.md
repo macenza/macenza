@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text=MACENZA&width=900&height=180&color=ff0000&fontSize=70&fontWeight=900" width="100%" />
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02040a,45:06152e,75:006eff,100:02040a&height=180&section=header&text=MACENZA&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BUILD.%20AUTOMATE.%20GROW.&descSize=16&descAlignY=60" width="100%"/>
 <h2>🚀 WHO WE ARE</h2>
 
 <table>
