@@ -27,43 +27,42 @@
 </p>
 
 ---
-
-## WHO WE ARE
+<h2>🚀 WHO WE ARE</h2>
 
 <table>
-  <tr>
-    <td width="60%">
+<tr>
+<td width="60%" valign="top">
 
 <b>Macenza</b> creates modern digital experiences by combining thoughtful design, reliable development, and practical business solutions.
+
 <br>
-We build digital products around real business requirements — from custom websites and web applications to automation, modern interfaces, and scalable digital systems
-<br><br>
 
-<b>Our approach:</b>
+We build digital products around real business requirements — from custom websites and web applications to automation, modern interfaces, and scalable digital systems.
 
-<br><br>
+<br>
 
-<img src="https://img.shields.io/badge/UNDERSTAND-0066FF?style=flat-square" />
-<img src="https://img.shields.io/badge/DESIGN-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/DEVELOP-EC4899?style=flat-square" />
-<img src="https://img.shields.io/badge/DELIVER-00BFFF?style=flat-square" />
+<b>✨ What we focus on:</b>
 
-```
+<br>
+
+🌐 Custom Website Development
+💻 Web Applications
+⚙️ Business Automation
+🎨 Modern UI/UX Design
+🛒 E-Commerce Solutions
+📱 Responsive Digital Experiences
+🚀 Scalable & Reliable Systems
+
 </td>
 
-<td width="40%" align="center">
-```
+<td width="40%" align="center" valign="middle">
 
-<img src="DIRECT-GIF-URL-HERE" width="280" alt="Macenza Animation"/>
+<img src="DIRECT-GIF-URL-HERE" width="300" alt="Macenza Animation"/>
 
-```
 </td>
-```
-
-  </tr>
+</tr>
 </table>
 
----
 
 ## WHAT WE BUILD
 
