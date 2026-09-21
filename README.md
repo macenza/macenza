@@ -37,26 +37,47 @@ We build digital products around real business requirements — from custom webs
 </td>
 </tr>
 </table>
+<table>
+<tr>
+
+<td width="33%" align="center">
 
 ### 🏢 MACENZA
+
 Modern digital solutions for businesses.
 
 **Websites · Web Apps · Automation**
 
 [![VIEW PROJECT →](https://img.shields.io/badge/VIEW_PROJECT_→-006eff?style=for-the-badge&labelColor=000000&color=006eff)](https://www.macenza.com/)
+
+</td>
+
+<td width="33%" align="center">
+
 ### 👥 HRENSO
+
 Modern HRMS and business management.
 
 **HRMS · Management · Business Tools**
 
 [![VIEW PROJECT →](https://img.shields.io/badge/VIEW_PROJECT_→-006eff?style=for-the-badge&labelColor=000000&color=006eff)](https://www.hrenso.com/)
+
+</td>
+
+<td width="33%" align="center">
+
 ### 👕 DIPLiM
+
 Modern fashion and digital shopping experience.
 
 **Fashion · E-Commerce · Digital Experience**
 
 [![VIEW PROJECT →](https://img.shields.io/badge/VIEW_PROJECT_→-006eff?style=for-the-badge&labelColor=000000&color=006eff)](https://www.diplim.com/)
-## ⚡ TECHNOLOGY STACK
+
+</td>
+
+</tr>
+</table>## ⚡ TECHNOLOGY STACK
 
 <table>
 <tr>
