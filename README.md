@@ -58,9 +58,14 @@ We build digital products around real business requirements — from custom webs
 <tr>
 
 <td align="center" width="33%">
+<table>
+<tr>
+
+<td align="center" width="33%">
+
 <b>🏢 MACENZA</b><br>
 Modern digital solutions<br>
-<sub>Websites · Web Apps · Automation</sub><br><br>
+<sub>Websites · Web Apps · Automation</sub><br>
 <a href="https://www.macenza.com/">
 <img src="https://img.shields.io/badge/VIEW_PROJECT_→-006eff?style=for-the-badge&labelColor=000000&color=006eff" />
 </a>
@@ -71,7 +76,7 @@ Modern digital solutions<br>
 
 <b>👥 HRENSO</b><br>
 Modern HRMS solutions<br>
-<sub>HRMS · Management · Business Tools</sub><br><br>
+<sub>HRMS · Management · Business Tools</sub><br>
 <a href="https://www.hrenso.com/">
 <img src="https://img.shields.io/badge/VIEW_PROJECT_→-006eff?style=for-the-badge&labelColor=000000&color=006eff" />
 </a>
@@ -82,7 +87,7 @@ Modern HRMS solutions<br>
 
 <b>👕 DIPLiM</b><br>
 Modern fashion experience<br>
-<sub>Fashion · E-Commerce · Shopping</sub><br><br>
+<sub>Fashion · E-Commerce · Shopping</sub><br>
 <a href="https://www.diplim.com/">
 <img src="https://img.shields.io/badge/VIEW_PROJECT_→-006eff?style=for-the-badge&labelColor=000000&color=006eff" />
 </a>
@@ -91,93 +96,68 @@ Modern fashion experience<br>
 
 </tr>
 </table>
+
 ## ⚡ TECHNOLOGY STACK
 
 <table>
 <tr>
+
 <td align="center" width="33%">
-
-**DEVELOPMENT**
-
-HTML · CSS · JavaScript
-React · Node.js · Express
+<b>DEVELOPMENT</b><br><br>
+HTML · CSS · JavaScript<br>
+React · Node.js · Express<br>
 Next.js
-
 </td>
 
 <td align="center" width="33%">
-
-**DATABASE & BACKEND**
-
-MongoDB · MySQL
-Firebase
-REST APIs
-
+<b>DATABASE & BACKEND</b><br><br>
+MongoDB · MySQL<br>
+Firebase · REST APIs
 </td>
 
 <td align="center" width="33%">
-
-**TOOLS & PLATFORMS**
-
-Git · GitHub · VS Code
-Figma · Vercel
-Cloud & AI Tools
-
+<b>TOOLS & PLATFORMS</b><br><br>
+Git · GitHub · VS Code<br>
+Figma · Vercel · AI Tools
 </td>
+
 </tr>
 </table>
-
----
 
 ## ◈ THE MACENZA APPROACH
 
 <table>
 <tr>
+
 <td align="center" width="25%">
-
-**01 · UNDERSTAND**
-
-Understand the idea, business and requirement.
-
+<b>01 · UNDERSTAND</b><br>
+<sub>Understand the idea, business and requirement.</sub>
 </td>
 
 <td align="center" width="25%">
-
-**02 · DESIGN**
-
-Create a modern experience around the idea.
-
+<b>02 · DESIGN</b><br>
+<sub>Create a modern experience around the idea.</sub>
 </td>
 
 <td align="center" width="25%">
-
-**03 · BUILD**
-
-Develop reliable and scalable solutions.
-
+<b>03 · BUILD</b><br>
+<sub>Develop reliable and scalable solutions.</sub>
 </td>
 
 <td align="center" width="25%">
-
-**04 · GROW**
-
-Improve, automate and evolve with the business.
-
+<b>04 · GROW</b><br>
+<sub>Improve, automate and evolve with the business.</sub>
 </td>
+
 </tr>
 </table>
 
----
-
 ## 🚀 TECHNOLOGIES IN MOTION
 
-**Web Development** · **Business Applications** · **Automation**
-**E-Commerce** · **Modern UI/UX** · **AI-Powered Solutions**
-
----
+**Web Development** · **Business Applications** · **Automation** · **E-Commerce** · **Modern UI/UX** · **AI Solutions**
 
 ## ✦ LET'S BUILD SOMETHING
 
 ### BUILD. AUTOMATE. GROW.
 
-**Where ideas become digital reality.**
+<sub>Where ideas become digital reality.</sub>
