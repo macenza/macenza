@@ -1,32 +1,16 @@
-<h1 align="center">
-  <b>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=3500&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Welcome+to+Macenza;Build.+Automate.+Grow.;Modern+Digital+Experiences;Technology+Built+Around+Your+Business" alt="Macenza Typing Animation" />
-  </b>
-</h1>
+<p align="center">
+  <img src="./25b91563153913.5aa7c1fa7402f.gif" width="100%" />
+</p>
+
+<h1 align="center">MACENZA</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MACENZA-0066FF?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/BUILD-EC4899?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/AUTOMATE-7C3AED?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/GROW-00BFFF?style=for-the-badge&labelColor=0D1117" />
+  <strong>BUILD. AUTOMATE. GROW.</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.macenza.com/">
-    <img src="https://img.shields.io/badge/Website-macenza.com-0066FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="mailto:macenza.tech@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EC4899?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/company/macenza/">
-    <img src="https://img.shields.io/badge/LinkedIn-Macenza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/macenza.ai/">
-    <img src="https://img.shields.io/badge/Instagram-@macenza.ai-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  Modern Digital Experiences • Smart Business Solutions • Scalable Technology
 </p>
-
----
 <h2>🚀 WHO WE ARE</h2>
 
 <table>
