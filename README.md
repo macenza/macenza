@@ -4,6 +4,7 @@
 
 </div>
 
+<br>
 
 ## 🚀 WHO WE ARE
 
@@ -21,6 +22,7 @@ We build digital products around real business requirements — from custom webs
 <br><br>
 
 <b>✨ What we focus on:</b><br>
+
 🌐 Custom Website Development<br>
 💻 Web Applications<br>
 ⚙️ Business Automation<br>
@@ -40,10 +42,13 @@ We build digital products around real business requirements — from custom webs
 </tr>
 </table>
 
+<br>
+
+---
 
 ## ◈ OUR WORK
 
-<table width="100%" cellpadding="4" cellspacing="0">
+<table width="100%" cellpadding="8" cellspacing="0">
 <tr>
 
 <td width="33.33%" align="center" valign="middle">
@@ -52,9 +57,7 @@ We build digital products around real business requirements — from custom webs
 
 <br><br>
 
-<b>MODERN DIGITAL SOLUTIONS</b>
-
-<br><br>
+<h3>MODERN DIGITAL SOLUTIONS</h3>
 
 <sub>Websites · Web Apps · Automation</sub>
 
@@ -66,18 +69,17 @@ We build digital products around real business requirements — from custom webs
 
 </td>
 
-
 <td width="33.33%" align="center" valign="middle">
 
 <img src="https://img.shields.io/badge/👥_HRENSO-00c6ff?style=for-the-badge&labelColor=000000&color=00c6ff"/>
 
+<br><br>
 
-
-<b>MODERN HRMS SOLUTIONS</b>
-
+<h3>MODERN HRMS SOLUTIONS</h3>
 
 <sub>HRMS · Management · Business Tools</sub>
 
+<br><br>
 
 <a href="https://www.hrenso.com/">
 <img src="https://img.shields.io/badge/VIEW_PROJECT_→-00c6ff?style=for-the-badge&labelColor=000000&color=00c6ff"/>
@@ -85,15 +87,17 @@ We build digital products around real business requirements — from custom webs
 
 </td>
 
-
 <td width="33.33%" align="center" valign="middle">
 
 <img src="https://img.shields.io/badge/👕_DIPLiM-7c4dff?style=for-the-badge&labelColor=000000&color=7c4dff"/>
 
+<br><br>
 
-<b>MODERN FASHION EXPERIENCE</b>
+<h3>MODERN FASHION EXPERIENCE</h3>
 
 <sub>Fashion · E-Commerce · Shopping</sub>
+
+<br><br>
 
 <a href="https://www.diplim.com/">
 <img src="https://img.shields.io/badge/VIEW_PROJECT_→-7c4dff?style=for-the-badge&labelColor=000000&color=7c4dff"/>
@@ -104,6 +108,9 @@ We build digital products around real business requirements — from custom webs
 </tr>
 </table>
 
+<br>
+
+---
 
 ## ⚡ TECHNOLOGY STACK
 
@@ -113,103 +120,89 @@ We build digital products around real business requirements — from custom webs
 
 <img src="https://skillicons.dev/icons?i=html" height="48"/>
 &nbsp;&nbsp;
-
 <img src="https://skillicons.dev/icons?i=css" height="48"/>
 &nbsp;&nbsp;
-
 <img src="https://skillicons.dev/icons?i=js" height="48"/>
 &nbsp;&nbsp;
-
 <img src="https://skillicons.dev/icons?i=typescript" height="48"/>
 &nbsp;&nbsp;
-
 <img src="https://skillicons.dev/icons?i=react" height="48"/>
 &nbsp;&nbsp;
-
 <img src="https://skillicons.dev/icons?i=nextjs" height="48"/>
 &nbsp;&nbsp;
-
 <img src="https://skillicons.dev/icons?i=nodejs" height="48"/>
 &nbsp;&nbsp;
-
 <img src="https://skillicons.dev/icons?i=express" height="48"/>
 &nbsp;&nbsp;
-
 <img src="https://skillicons.dev/icons?i=python" height="48"/>
 &nbsp;&nbsp;
-
 <img src="https://skillicons.dev/icons?i=java" height="48"/>
 &nbsp;&nbsp;
-
 <img src="https://skillicons.dev/icons?i=mongodb" height="48"/>
 &nbsp;&nbsp;
-
 <img src="https://skillicons.dev/icons?i=mysql" height="48"/>
 &nbsp;&nbsp;
-
 <img src="https://skillicons.dev/icons?i=postgres" height="48"/>
 &nbsp;&nbsp;
-
 <img src="https://skillicons.dev/icons?i=firebase" height="48"/>
 &nbsp;&nbsp;
-
 <img src="https://skillicons.dev/icons?i=git" height="48"/>
 &nbsp;&nbsp;
-
 <img src="https://skillicons.dev/icons?i=github" height="48"/>
 &nbsp;&nbsp;
-
 <img src="https://skillicons.dev/icons?i=vscode" height="48"/>
 &nbsp;&nbsp;
-
 <img src="https://skillicons.dev/icons?i=figma" height="48"/>
 &nbsp;&nbsp;
-
 <img src="https://skillicons.dev/icons?i=postman" height="48"/>
 &nbsp;&nbsp;
-
 <img src="https://skillicons.dev/icons?i=docker" height="48"/>
 &nbsp;&nbsp;
-
 <img src="https://skillicons.dev/icons?i=vercel" height="48"/>
 &nbsp;&nbsp;
-
 <img src="https://skillicons.dev/icons?i=linux" height="48"/>
 
 </marquee>
 
 </div>
 
+<br>
+
+---
 
 ## ◈ THE MACENZA APPROACH
 
-<table width="100%">
+<table width="100%" cellpadding="12" cellspacing="8">
 <tr>
 
-<td align="center" width="25%">
+<td width="25%" align="center" valign="middle">
 
-<b>01 · UNDERSTAND</b><br>
+<h3>01 · UNDERSTAND</h3>
+
 <sub>Understand the idea, business and requirement.</sub>
 
 </td>
 
-<td align="center" width="25%">
+<td width="25%" align="center" valign="middle">
 
-<b>02 · DESIGN</b><br>
+<h3>02 · DESIGN</h3>
+
 <sub>Create a modern experience around the idea.</sub>
 
 </td>
 
-<td align="center" width="25%">
+<td width="25%" align="center" valign="middle">
 
-<b>03 · BUILD</b><br>
+<h3>03 · BUILD</h3>
+
 <sub>Develop reliable and scalable solutions.</sub>
 
 </td>
 
-<td align="center" width="25%">
+<td width="25%" align="center" valign="middle">
 
-<b>04 · GROW</b><br>
+<h3>04 · GROW</h3>
+
 <sub>Improve, automate and evolve with the business.</sub>
 
 </td>
@@ -217,6 +210,9 @@ We build digital products around real business requirements — from custom webs
 </tr>
 </table>
 
+<br>
+
+---
 
 ## 🚀 TECHNOLOGIES IN MOTION
 
@@ -231,17 +227,21 @@ We build digital products around real business requirements — from custom webs
 
 </div>
 
+<br><br>
+
+---
 
 ## ✦ LET'S BUILD SOMETHING
 
 <div align="center">
 
-<h3>BUILD. AUTOMATE. GROW.</h3>
+<h2>BUILD. AUTOMATE. GROW.</h2>
 
 <sub>Where ideas become digital reality.</sub>
 
 </div>
 
+<br>
 
 <div align="center">
 
