@@ -71,15 +71,13 @@ We build digital products around real business requirements — from custom webs
 
 <img src="https://img.shields.io/badge/👥_HRENSO-00c6ff?style=for-the-badge&labelColor=000000&color=00c6ff"/>
 
-<br><br>
+
 
 <b>MODERN HRMS SOLUTIONS</b>
 
-<br><br>
 
 <sub>HRMS · Management · Business Tools</sub>
 
-<br><br>
 
 <a href="https://www.hrenso.com/">
 <img src="https://img.shields.io/badge/VIEW_PROJECT_→-00c6ff?style=for-the-badge&labelColor=000000&color=00c6ff"/>
@@ -92,15 +90,10 @@ We build digital products around real business requirements — from custom webs
 
 <img src="https://img.shields.io/badge/👕_DIPLiM-7c4dff?style=for-the-badge&labelColor=000000&color=7c4dff"/>
 
-<br><br>
 
 <b>MODERN FASHION EXPERIENCE</b>
 
-<br><br>
-
 <sub>Fashion · E-Commerce · Shopping</sub>
-
-<br><br>
 
 <a href="https://www.diplim.com/">
 <img src="https://img.shields.io/badge/VIEW_PROJECT_→-7c4dff?style=for-the-badge&labelColor=000000&color=7c4dff"/>
