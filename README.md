@@ -18,8 +18,6 @@
 
 We build digital products around real business requirements — from custom websites and web applications to automation, modern interfaces, and scalable digital systems.
 
-<br><br>
-
 <b>✨ What we focus on:</b><br>
 🌐 Custom Website Development<br>
 💻 Web Applications<br>
