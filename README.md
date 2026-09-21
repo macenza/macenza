@@ -92,7 +92,7 @@ We build digital products around real business requirements — from custom webs
 Modern digital solutions for businesses.
 
 <a href="https://www.macenza.com/">
-<img src="https://img.shields.io/badge/Explore-0066FF?style=for-the-badge" />
+<img src="[https://img.shields.io/badge/Explore-0066FF?style=for-the-badge](https://mir-s3-cdn-cf.behance.net/project_modules/disp/25b91563153913.5aa7c1fa7402f.gif)" />
 </a>
 
 ```
