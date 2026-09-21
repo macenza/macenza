@@ -47,17 +47,26 @@ We build digital products around real business requirements — from custom webs
 
 <td width="33%" align="center" style="background: linear-gradient(135deg, #000000, #06152e, #006eff);">
 
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:06152e,100:006eff&height=8&section=header" width="100%">
+
 ### 🏢 MACENZA
 
 Modern digital solutions for businesses.
 
 **Websites · Web Apps · Automation**
 
-[VIEW PROJECT →](https://www.macenza.com/)
+[**VIEW PROJECT →**](https://www.macenza.com/)
 
 </td>
 
-<td width="33%" align="center" style="background: linear-gradient(135deg, #000000, #06152e, #006eff);">
+<td width="33%" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:06152e,100:006eff&height=8&section=header" width="100%">
 
 ### 👥 HRENSO
 
@@ -65,11 +74,13 @@ Modern HRMS and business management.
 
 **HRMS · Management · Business Tools**
 
-[VIEW PROJECT →](https://www.hrenso.com/)
+[**VIEW PROJECT →**](https://www.hrenso.com/)
 
 </td>
 
-<td width="33%" align="center" style="background: linear-gradient(135deg, #000000, #06152e, #006eff);">
+<td width="33%" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:06152e,100:006eff&height=8&section=header" width="100%">
 
 ### 👕 DIPLiM
 
@@ -77,12 +88,13 @@ Modern fashion and digital shopping experience.
 
 **Fashion · E-Commerce · Digital Experience**
 
-[VIEW PROJECT →](https://www.diplim.com/)
+[**VIEW PROJECT →**](https://www.diplim.com/)
 
 </td>
 
 </tr>
-</table>## ⚡ TECHNOLOGY STACK
+</table>
+## ⚡ TECHNOLOGY STACK
 
 <table>
 <tr>
