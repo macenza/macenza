@@ -44,40 +44,54 @@ We build digital products around real business requirements — from custom webs
 
 <td align="center" width="33%">
 
+<h2>◈ OUR WORK</h2>
+
+<table>
+<tr>
+
+<td width="5%" align="left" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:06152e,100:006eff&height=80&width=120&section=header&animation=twinkling" width="100%">
+</td>
+
+<td width="30%" align="center">
+
 <b>🏢 MACENZA</b><br>
 Modern digital solutions<br>
 <sub>Websites · Web Apps · Automation</sub><br>
 <a href="https://www.macenza.com/">
-<img src="https://img.shields.io/badge/VIEW_PROJECT_→-006eff?style=for-the-badge&labelColor=000000&color=006eff" />
+<img src="https://img.shields.io/badge/VIEW_PROJECT_→-006eff?style=for-the-badge&labelColor=000000&color=006eff">
 </a>
 
 </td>
 
-<td align="center" width="33%">
+<td width="30%" align="center">
 
 <b>👥 HRENSO</b><br>
 Modern HRMS solutions<br>
 <sub>HRMS · Management · Business Tools</sub><br>
 <a href="https://www.hrenso.com/">
-<img src="https://img.shields.io/badge/VIEW_PROJECT_→-006eff?style=for-the-badge&labelColor=000000&color=006eff" />
+<img src="https://img.shields.io/badge/VIEW_PROJECT_→-006eff?style=for-the-badge&labelColor=000000&color=006eff">
 </a>
 
 </td>
 
-<td align="center" width="33%">
+<td width="30%" align="center">
 
 <b>👕 DIPLiM</b><br>
 Modern fashion experience<br>
 <sub>Fashion · E-Commerce · Shopping</sub><br>
 <a href="https://www.diplim.com/">
-<img src="https://img.shields.io/badge/VIEW_PROJECT_→-006eff?style=for-the-badge&labelColor=000000&color=006eff" />
+<img src="https://img.shields.io/badge/VIEW_PROJECT_→-006eff?style=for-the-badge&labelColor=000000&color=006eff">
 </a>
 
 </td>
 
+<td width="5%" align="right" valign="bottom">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:006eff,50:06152e,100:000000&height=80&width=120&section=footer&animation=twinkling" width="100%">
+</td>
+
 </tr>
 </table>
-
 <h2>⚡ TECHNOLOGY STACK</h2>
 
 <table>
