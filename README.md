@@ -54,7 +54,7 @@ We build digital products around real business requirements — from custom webs
 
 <td width="40%" align="center" valign="middle">
 
-<img src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" width="250" alt="Coding GIF"/>
+<img src="[https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" width="250" alt="Coding GIF](https://mir-s3-cdn-cf.behance.net/project_modules/disp/25b91563153913.5aa7c1fa7402f.gif)"/>
 
 </td>
 </tr>
