@@ -54,41 +54,39 @@ We build digital products around real business requirements — from custom webs
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:06152e,100:006eff&height=8&section=header" width="100%">
 
-### 🏢 MACENZA
+<table>
+<tr>
 
-Modern digital solutions for businesses.
+<td align="center" width="33%">
 
-**Websites · Web Apps · Automation**
-
-[**VIEW PROJECT →**](https://www.macenza.com/)
-
-</td>
-
-<td width="33%" align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:06152e,100:006eff&height=8&section=header" width="100%">
-
-### 👥 HRENSO
-
-Modern HRMS and business management.
-
-**HRMS · Management · Business Tools**
-
-[**VIEW PROJECT →**](https://www.hrenso.com/)
+<b>🏢 MACENZA</b><br>
+Modern digital solutions<br>
+<sub>Websites · Web Apps · Automation</sub><br><br>
+<a href="https://www.macenza.com/">
+<img src="https://img.shields.io/badge/VIEW_PROJECT_→-006eff?style=for-the-badge&labelColor=000000&color=006eff" />
+</a>
 
 </td>
 
-<td width="33%" align="center">
+<td align="center" width="33%">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:06152e,100:006eff&height=8&section=header" width="100%">
+<b>👥 HRENSO</b><br>
+Modern HRMS solutions<br>
+<sub>HRMS · Management · Business Tools</sub><br><br>
+<a href="https://www.hrenso.com/">
+<img src="https://img.shields.io/badge/VIEW_PROJECT_→-006eff?style=for-the-badge&labelColor=000000&color=006eff" />
+</a>
 
-### 👕 DIPLiM
+</td>
 
-Modern fashion and digital shopping experience.
+<td align="center" width="33%">
 
-**Fashion · E-Commerce · Digital Experience**
-
-[**VIEW PROJECT →**](https://www.diplim.com/)
+<b>👕 DIPLiM</b><br>
+Modern fashion experience<br>
+<sub>Fashion · E-Commerce · Shopping</sub><br><br>
+<a href="https://www.diplim.com/">
+<img src="https://img.shields.io/badge/VIEW_PROJECT_→-006eff?style=for-the-badge&labelColor=000000&color=006eff" />
+</a>
 
 </td>
 
