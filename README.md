@@ -1,11 +1,40 @@
-<h1 align="center">MACENZA</h1>
-
 <p align="center">
-  <strong>BUILD. AUTOMATE. GROW.</strong>
-</p>
+  <svg width="100%" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="redWave" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#ff0000"/>
+        <stop offset="50%" stop-color="#ff4d4d"/>
+        <stop offset="100%" stop-color="#ff0000"/>
+      </linearGradient>
+    </defs>
 
-<p align="center">
-  Modern Digital Experiences • Smart Business Solutions • Scalable Technology
+    <path
+      d="M0 120 Q150 40 300 120 T600 120 T900 120 T1200 120"
+      fill="none"
+      stroke="url(#redWave)"
+      stroke-width="3">
+      <animate
+        attributeName="d"
+        dur="4s"
+        repeatCount="indefinite"
+        values="
+        M0 120 Q150 40 300 120 T600 120 T900 120 T1200 120;
+        M0 120 Q150 200 300 120 T600 120 T900 120 T1200 120;
+        M0 120 Q150 40 300 120 T600 120 T900 120 T1200 120"/>
+    </path>
+
+    <text
+      x="600"
+      y="105"
+      text-anchor="middle"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="72"
+      font-weight="900"
+      letter-spacing="12"
+      fill="white">
+      MACENZA
+    </text>
+  </svg>
 </p>
 <h2>🚀 WHO WE ARE</h2>
 
