@@ -4,7 +4,8 @@
 
 </div>
 
-<h2>🚀 WHO WE ARE</h2>
+
+## 🚀 WHO WE ARE
 
 <table>
 <tr>
@@ -39,20 +40,23 @@ We build digital products around real business requirements — from custom webs
 </tr>
 </table>
 
-<h2>◈ OUR WORK</h2>
+
+## ◈ OUR WORK
 
 <table>
 <tr>
 
 <td width="6%" align="left" valign="top">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:06152e,100:006eff&height=90&section=header&animation=twinkling" width="100%">
+
 </td>
 
 <td width="29%" align="center">
 
 <b>🏢 MACENZA</b><br>
 Modern digital solutions<br>
-<sub>Websites · Web Apps · Automation</sub><br>
+<sub>Websites · Web Apps · Automation</sub><br><br>
 
 <a href="https://www.macenza.com/">
 <img src="https://img.shields.io/badge/VIEW_PROJECT_→-006eff?style=for-the-badge&labelColor=000000&color=006eff">
@@ -64,7 +68,7 @@ Modern digital solutions<br>
 
 <b>👥 HRENSO</b><br>
 Modern HRMS solutions<br>
-<sub>HRMS · Management · Business Tools</sub><br>
+<sub>HRMS · Management · Business Tools</sub><br><br>
 
 <a href="https://www.hrenso.com/">
 <img src="https://img.shields.io/badge/VIEW_PROJECT_→-006eff?style=for-the-badge&labelColor=000000&color=006eff">
@@ -76,7 +80,7 @@ Modern HRMS solutions<br>
 
 <b>👕 DIPLiM</b><br>
 Modern fashion experience<br>
-<sub>Fashion · E-Commerce · Shopping</sub><br>
+<sub>Fashion · E-Commerce · Shopping</sub><br><br>
 
 <a href="https://www.diplim.com/">
 <img src="https://img.shields.io/badge/VIEW_PROJECT_→-006eff?style=for-the-badge&labelColor=000000&color=006eff">
@@ -85,40 +89,75 @@ Modern fashion experience<br>
 </td>
 
 <td width="6%" align="right" valign="bottom">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:006eff,50:06152e,100:000000&height=90&section=footer&animation=twinkling" width="100%">
+
 </td>
 
 </tr>
 </table>
 
-<h2>⚡ TECHNOLOGY STACK</h2>
 
-<table>
-<tr>
+## ⚡ TECHNOLOGY STACK
 
-<td align="center" width="33%">
-<b>DEVELOPMENT</b><br><br>
-HTML · CSS · JavaScript<br>
-React · Node.js · Express<br>
-Next.js
-</td>
+<div align="center">
 
-<td align="center" width="33%">
-<b>DATABASE & BACKEND</b><br><br>
-MongoDB · MySQL<br>
-Firebase · REST APIs
-</td>
+<!-- DEVELOPMENT -->
 
-<td align="center" width="33%">
-<b>TOOLS & PLATFORMS</b><br><br>
-Git · GitHub · VS Code<br>
-Figma · Vercel · AI Tools
-</td>
+<marquee behavior="scroll" direction="left" scrollamount="6">
 
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,nextjs" height="55">
 
-<h2>◈ THE MACENZA APPROACH</h2>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,nextjs" height="55">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,nextjs" height="55">
+
+</marquee>
+
+<br>
+
+<!-- DATABASE & BACKEND -->
+
+<marquee behavior="scroll" direction="right" scrollamount="5">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postman" height="55">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postman" height="55">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postman" height="55">
+
+</marquee>
+
+<br>
+
+<!-- TOOLS & PLATFORMS -->
+
+<marquee behavior="scroll" direction="left" scrollamount="7">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,ai" height="55">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,ai" height="55">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,ai" height="55">
+
+</marquee>
+
+</div>
+
+
+## ◈ THE MACENZA APPROACH
 
 <table>
 <tr>
@@ -146,25 +185,34 @@ Figma · Vercel · AI Tools
 </tr>
 </table>
 
-<h2>🚀 TECHNOLOGIES IN MOTION</h2>
+
+## 🚀 TECHNOLOGIES IN MOTION
 
 <div align="center">
 
-<b>Web Development</b> ·
-<b>Business Applications</b> ·
-<b>Automation</b> ·
-<b>E-Commerce</b> ·
-<b>Modern UI/UX</b> ·
-<b>AI Solutions</b>
+<b>🌐 Web Development</b> ·
+<b>💻 Business Applications</b> ·
+<b>⚙️ Automation</b> ·
+<b>🛒 E-Commerce</b> ·
+<b>🎨 Modern UI/UX</b> ·
+<b>🤖 AI Solutions</b>
 
 </div>
 
-<h2>✦ LET'S BUILD SOMETHING</h2>
+
+## ✦ LET'S BUILD SOMETHING
 
 <div align="center">
 
 <h3>BUILD. AUTOMATE. GROW.</h3>
 
 <sub>Where ideas become digital reality.</sub>
+
+</div>
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:006eff,75:06152e,100:000000&height=100&section=footer" width="100%"/>
 
 </div>
