@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./25b91563153913.5aa7c1fa7402f.gif" width="100%" />
-</p>
-
 <h1 align="center">MACENZA</h1>
 
 <p align="center">
