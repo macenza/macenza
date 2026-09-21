@@ -42,17 +42,14 @@ We build digital products around real business requirements — from custom webs
 <br>
 
 <b>✨ What we focus on:</b>
-
 <br>
-
-🌐 Custom Website Development
-💻 Web Applications
-⚙️ Business Automation
-🎨 Modern UI/UX Design
-🛒 E-Commerce Solutions
-📱 Responsive Digital Experiences
+🌐 Custom Website Development<br>
+💻 Web Applications<br>
+⚙️ Business Automation<br>
+🎨 Modern UI/UX Design<br>
+🛒 E-Commerce Solutions<br>
+📱 Responsive Digital Experiences<br>
 🚀 Scalable & Reliable Systems
-
 </td>
 
 <td width="40%" align="center" valign="middle">
