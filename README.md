@@ -1,12 +1,6 @@
-<div align="center">
-
-<h1>
-  <span style="color:#ff0000;">M</span><span style="color:#ff3333;">A</span><span style="color:#ff0000;">C</span><span style="color:#ff3333;">E</span><span style="color:#ff0000;">N</span><span style="color:#ff3333;">Z</span><span style="color:#ff0000;">A</span>
-</h1>
-
-〰️〰️〰️〰️〰️〰️〰️〰️〰️
-
-</div>
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text=MACENZA&width=900&height=180&color=ff0000&fontSize=70&fontWeight=900" width="100%" />
+</p>
 <h2>🚀 WHO WE ARE</h2>
 
 <table>
