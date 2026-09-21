@@ -3,6 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:06152e,75:006eff,100:000000&height=180&section=header&text=MACENZA&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BUILD.%20AUTOMATE.%20GROW.&descSize=16&descAlignY=60" width="100%"/>
 
 </div>
+
 <h2>🚀 WHO WE ARE</h2>
 
 <table>
@@ -11,14 +12,13 @@
 
 <b>Macenza</b> creates modern digital experiences by combining thoughtful design, reliable development, and practical business solutions.
 
-<br>
+<br><br>
 
 We build digital products around real business requirements — from custom websites and web applications to automation, modern interfaces, and scalable digital systems.
 
-<br>
+<br><br>
 
-<b>✨ What we focus on:</b>
-<br>
+<b>✨ What we focus on:</b><br>
 🌐 Custom Website Development<br>
 💻 Web Applications<br>
 ⚙️ Business Automation<br>
@@ -26,38 +26,19 @@ We build digital products around real business requirements — from custom webs
 🛒 E-Commerce Solutions<br>
 📱 Responsive Digital Experiences<br>
 🚀 Scalable & Reliable Systems
+
 </td>
 
 <td width="40%" align="center" valign="middle">
 
-<p align="center">
-  <img src="./25b91563153913.5aa7c1fa7402f.gif" width="100%" />
-</p>
+<img src="./25b91563153913.5aa7c1fa7402f.gif" width="100%" />
 
 </td>
 </tr>
 </table>
-<table>
-<tr>
 
-<td width="33%" align="center">
+<h2>◈ OUR WORK</h2>
 
-<table>
-<tr>
-
-<td width="33%" align="center" style="background: linear-gradient(135deg, #000000, #06152e, #006eff);">
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:06152e,100:006eff&height=8&section=header" width="100%">
-
-<table>
-<tr>
-
-<td align="center" width="33%">
 <table>
 <tr>
 
@@ -97,7 +78,7 @@ Modern fashion experience<br>
 </tr>
 </table>
 
-## ⚡ TECHNOLOGY STACK
+<h2>⚡ TECHNOLOGY STACK</h2>
 
 <table>
 <tr>
@@ -124,7 +105,7 @@ Figma · Vercel · AI Tools
 </tr>
 </table>
 
-## ◈ THE MACENZA APPROACH
+<h2>◈ THE MACENZA APPROACH</h2>
 
 <table>
 <tr>
@@ -152,12 +133,25 @@ Figma · Vercel · AI Tools
 </tr>
 </table>
 
-## 🚀 TECHNOLOGIES IN MOTION
+<h2>🚀 TECHNOLOGIES IN MOTION</h2>
 
-**Web Development** · **Business Applications** · **Automation** · **E-Commerce** · **Modern UI/UX** · **AI Solutions**
+<div align="center">
 
-## ✦ LET'S BUILD SOMETHING
+<b>Web Development</b> ·
+<b>Business Applications</b> ·
+<b>Automation</b> ·
+<b>E-Commerce</b> ·
+<b>Modern UI/UX</b> ·
+<b>AI Solutions</b>
 
-### BUILD. AUTOMATE. GROW.
+</div>
+
+<h2>✦ LET'S BUILD SOMETHING</h2>
+
+<div align="center">
+
+<h3>BUILD. AUTOMATE. GROW.</h3>
 
 <sub>Where ideas become digital reality.</sub>
+
+</div>
