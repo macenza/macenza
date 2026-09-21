@@ -54,7 +54,9 @@ We build digital products around real business requirements — from custom webs
 
 <td width="40%" align="center" valign="middle">
 
-<img src="https://designedbythomas.co.uk/blog/motion-graphics-project-gifs/"/>
+<p align="center">
+  <img src="./25b91563153913.5aa7c1fa7402f.gif" width="100%" />
+</p>
 
 </td>
 </tr>
