@@ -1,11 +1,10 @@
 <div align="center">
 
-<img src="./assets/macenza.gif" width="100%" alt="MACENZA">
+<h1>
+  <span style="color:#ff0000;">M</span><span style="color:#ff3333;">A</span><span style="color:#ff0000;">C</span><span style="color:#ff3333;">E</span><span style="color:#ff0000;">N</span><span style="color:#ff3333;">Z</span><span style="color:#ff0000;">A</span>
+</h1>
 
-### Building Beyond The Ordinary
-
-**Macenza** creates modern digital experiences combining thoughtful design,
-reliable development and practical business solutions.
+〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 </div>
 <h2>🚀 WHO WE ARE</h2>
