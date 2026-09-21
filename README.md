@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0a1f44,75:0066ff,100:020617&height=230&section=header&text=MACENZA&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BUILD.%20AUTOMATE.%20GROW.&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02040a,45:06152e,75:006eff,100:02040a&height=180&section=header&text=MACENZA&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BUILD.%20AUTOMATE.%20GROW.&descSize=16&descAlignY=60" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=21&duration=3000&pause=900&color=1683FF&center=true&vCenter=true&width=850&lines=Behind+Every+Build%2C+There%E2%80%99s+a+Deeper+Idea.;We+Build+What+Others+Only+Imagine.;Digital+Products.+Modern+Experiences.;Ideas+%E2%86%92+Design+%E2%86%92+Technology+%E2%86%92+Reality." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=900&color=1683FF&center=true&vCenter=true&width=850&lines=BEHIND+EVERY+BUILD%2C+THERE%E2%80%99S+A+DEEPER+IDEA.;DIGITAL+PRODUCTS+%7C+WEB+APPLICATIONS+%7C+AUTOMATION;DESIGN+%E2%86%92+DEVELOPMENT+%E2%86%92+REALITY" />
 
 <br><br>
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=◉%20%20◌%20%20◎%20%20◌%20%20◉&fontSize=38&fontColor=1683FF&animation=twinkling"/>
 
 </div>
 
@@ -16,77 +16,101 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=◉&fontSize=100&fontColor=1683FF&animation=twinkling" />
+# `◉ ABOUT MACENZA`
 
-### `MACENZA`
+</div>
 
-**Digital experiences engineered with deeper thinking.**
+<table>
+<tr>
+<td width="65%" valign="top">
+
+### `01 / THE IDEA`
+
+**Macenza** builds modern digital experiences for businesses that want to move beyond ordinary digital solutions.
+
+We combine:
+
+`DESIGN` + `DEVELOPMENT` + `AUTOMATION`
+
+into practical digital products.
 
 <br>
 
-<img src="https://img.shields.io/badge/DESIGN-0B1220?style=for-the-badge&logoColor=1683FF"/>
-<img src="https://img.shields.io/badge/DEVELOPMENT-0B1220?style=for-the-badge&logoColor=1683FF"/>
-<img src="https://img.shields.io/badge/AUTOMATION-0B1220?style=for-the-badge&logoColor=1683FF"/>
+> **When ideas go deeper, Macenza builds further.**
 
-</div>
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=◉&fontSize=150&fontColor=1683FF&animation=twinkling"/>
+
+`MACENZA`
+
+**Digital Experiences**
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-## ◌ WHAT WE BUILD ◌
+# `◌ WHAT WE BUILD`
 
 <br>
 
 <table>
 <tr>
+
 <td align="center" width="25%">
 
-### ◉
+### `◉`
 
-**WEB**
+**WEBSITES**
 
-Modern Websites
-Responsive Experiences
-Performance-focused Builds
+Modern
+Responsive
+Fast
 
 </td>
 
 <td align="center" width="25%">
 
-### ◎
+### `◎`
 
-**APPS**
+**WEB APPS**
 
-Business Applications
-Smart Dashboards
-Custom Systems
+Business
+Dashboards
+Systems
 
 </td>
 
 <td align="center" width="25%">
 
-### ◇
+### `◈`
 
 **AUTOMATION**
 
-Digital Workflows
-Business Automation
-Process Optimization
+Workflows
+Processes
+Operations
 
 </td>
 
 <td align="center" width="25%">
 
-### ⦿
+### `◌`
 
-**DESIGN**
+**UI / UX**
 
-Modern UI/UX
-Interactive Interfaces
-Brand Experiences
+Modern
+Interactive
+Clean
 
 </td>
+
 </tr>
 </table>
 
@@ -96,65 +120,74 @@ Brand Experiences
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=◌%20◌%20◌&fontSize=38&fontColor=1683FF&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=━━━━━━━━%20◉%20━━━━━━━━&fontSize=20&fontColor=1683FF"/>
 
-## SELECTED BUILDS
+# `◉ SELECTED PROJECTS`
 
 </div>
+
+<table>
+<tr>
+<td width="33%" valign="top">
 
 ### 🔵 MACENZA
 
-> **When ideas go deeper, Macenza builds further.**
+**Digital Solutions**
 
-Digital products, websites, applications and automation systems built around real business requirements.
+Websites
+Web Applications
+Automation
+UI / UX
 
-<div align="center">
+[ VISIT → ](https://www.macenza.com/)
 
-[![Macenza](https://img.shields.io/badge/EXPLORE-MACENZA-0066FF?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://www.macenza.com/)
+</td>
 
-</div>
-
----
+<td width="33%" valign="top">
 
 ### 🔷 HRENSO
 
-> **Beyond management — built for modern business.**
+**Business Platform**
 
-A modern business management platform focused on connected workflows and practical digital operations.
+Management
+Workflows
+Operations
+Digital Systems
 
-<div align="center">
+[ VISIT → ](https://www.hrenso.com/)
 
-[![Hrenso](https://img.shields.io/badge/EXPLORE-HRENSO-0066FF?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://www.hrenso.com/)
+</td>
 
-</div>
-
----
+<td width="33%" valign="top">
 
 ### 🔹 DIPLIM
 
-> **Clothing becomes identity.**
+**Fashion Experience**
 
-A fashion-focused digital experience built around modern presentation and brand identity.
+Fashion
+Branding
+E-Commerce
+Digital Experience
 
-<div align="center">
+[ VISIT → ](https://www.diplim.com/)
 
-[![Diplim](https://img.shields.io/badge/EXPLORE-DIPLIM-0066FF?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://www.diplim.com/)
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-## ◉ TECHNOLOGY
+# `◎ TECHNOLOGY`
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,typescript,nodejs,express,java,mongodb,mysql,git,github,vscode,postman&perline=8&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,typescript,nodejs,express,java,mongodb,mysql,git,github,vscode,postman&perline=8&theme=dark"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=◉%20◌%20◎%20◌%20◉&fontSize=38&fontColor=1683FF&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=◉%20◌%20◎%20◌%20◉&fontSize=34&fontColor=1683FF&animation=twinkling"/>
 
 </div>
 
@@ -162,57 +195,83 @@ A fashion-focused digital experience built around modern presentation and brand 
 
 <div align="center">
 
-## ◉ GITHUB ACTIVITY
+# `◉ GITHUB INTELLIGENCE`
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+### `ACTIVITY`
+
+<img src="https://github-readme-stats.vercel.app/api?username=macenza&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true&rank_icon=github&title_color=1683FF&icon_color=1683FF&text_color=9FB5D1"/>
+
+</td>
+
+<td width="50%" align="center">
+
+### `STREAK`
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=macenza&theme=transparent&hide_border=true&ring=1683FF&fire=1683FF&currStreakLabel=1683FF&sideLabels=9FB5D1&dates=6B7C93"/>
+
+</td>
+
+</tr>
+</table>
+
+<div align="center">
+
+### `LANGUAGE DISTRIBUTION`
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macenza&layout=compact&hide_border=true&theme=transparent&langs_count=8&title_color=1683FF&text_color=9FB5D1"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# `◌ CONTRIBUTION MATRIX`
 
 <br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=macenza&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=1683FF&icon_color=1683FF&text_color=8FA9C9" width="49%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=macenza&theme=transparent&hide_border=true&ring=1683FF&fire=1683FF&currStreakLabel=1683FF" width="49%"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macenza&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=1683FF&text_color=8FA9C9" width="42%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ◌ CONTRIBUTION FLOW ◌
 
 <img src="https://github-contributor-stats.vercel.app/api?username=macenza&limit=5&theme=transparent&combine_all_yearly_contributions=true" width="90%"/>
 
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=◉%20◉%20◉%20◉%20◉&fontSize=35&fontColor=1683FF&animation=twinkling"/>
+
 </div>
 
 ---
 
 <div align="center">
 
-## ◉ CONNECT
+# `◉ CONNECT`
 
 <br>
 
 <a href="https://www.macenza.com/">
-<img src="https://img.shields.io/badge/WEBSITE-0066FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/MACENZA-006EFF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/macenza">
-<img src="https://img.shields.io/badge/LINKEDIN-0066FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-006EFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/macenza.ai">
-<img src="https://img.shields.io/badge/INSTAGRAM-0066FF?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-006EFF?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:macenza.tech@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0066FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-006EFF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0066FF,70:1683FF,100:020617&height=150&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02040a,40:006eff,70:1683ff,100:02040a&height=130&section=footer&animation=twinkling" width="100%"/>
 
 ### `BUILD DEEP. THINK DIFFERENT. GO FURTHER.`
 
