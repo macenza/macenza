@@ -43,71 +43,85 @@ We build digital products around real business requirements — from custom webs
 
 ## ◈ OUR WORK
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:06152e,100:006eff&height=90&section=header&animation=twinkling" width="100%"/>
-
-</div>
-
-<table>
+<table width="100%">
 <tr>
 
-<td width="33%" align="center" valign="top">
+<td width="33.33%" align="center" valign="top">
 
-### 🏢 MACENZA
+<br>
+
+<img src="https://img.shields.io/badge/🏢_MACENZA-000000?style=for-the-badge&labelColor=000000&color=006eff"/>
+
+<br><br>
 
 Modern digital solutions
+
+<br>
 
 <sub>Websites · Web Apps · Automation</sub>
 
 <br><br>
 
 <a href="https://www.macenza.com/">
-<img src="https://img.shields.io/badge/VIEW_PROJECT_→-006eff?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT_→-000000?style=for-the-badge&labelColor=006eff&color=000000"/>
 </a>
+
+<br>
 
 </td>
 
-<td width="34%" align="center" valign="top">
 
-### 👥 HRENSO
+<td width="33.33%" align="center" valign="top">
+
+<br>
+
+<img src="https://img.shields.io/badge/👥_HRENSO-000000?style=for-the-badge&labelColor=000000&color=006eff"/>
+
+<br><br>
 
 Modern HRMS solutions
+
+<br>
 
 <sub>HRMS · Management · Business Tools</sub>
 
 <br><br>
 
 <a href="https://www.hrenso.com/">
-<img src="https://img.shields.io/badge/VIEW_PROJECT_→-006eff?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT_→-000000?style=for-the-badge&labelColor=006eff&color=000000"/>
 </a>
+
+<br>
 
 </td>
 
-<td width="33%" align="center" valign="top">
 
-### 👕 DIPLiM
+<td width="33.33%" align="center" valign="top">
+
+<br>
+
+<img src="https://img.shields.io/badge/👕_DIPLiM-000000?style=for-the-badge&labelColor=000000&color=006eff"/>
+
+<br><br>
 
 Modern fashion experience
+
+<br>
 
 <sub>Fashion · E-Commerce · Shopping</sub>
 
 <br><br>
 
 <a href="https://www.diplim.com/">
-<img src="https://img.shields.io/badge/VIEW_PROJECT_→-006eff?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT_→-000000?style=for-the-badge&labelColor=006eff&color=000000"/>
 </a>
+
+<br>
 
 </td>
 
 </tr>
 </table>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:006eff,50:06152e,100:000000&height=90&section=footer&animation=twinkling" width="100%"/>
-
-</div>
 
 
 ## ⚡ TECHNOLOGY STACK
@@ -116,70 +130,49 @@ Modern fashion experience
 
 <marquee behavior="scroll" direction="left" scrollamount="6">
 
-<img src="https://skillicons.dev/icons?i=html" height="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=css" height="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=js" height="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=typescript" height="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=react" height="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=nextjs" height="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=nodejs" height="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=express" height="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=python" height="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=java" height="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=mongodb" height="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=postgres" height="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=firebase" height="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=git" height="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=vscode" height="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=figma" height="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=postman" height="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=docker" height="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=vercel" height="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=linux" height="55"/>
+<img src="https://skillicons.dev/icons?i=html" height="50"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" height="50"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js" height="50"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=typescript" height="50"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=react" height="50"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nextjs" height="50"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=express" height="50"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python" height="50"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java" height="50"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postgres" height="50"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=firebase" height="50"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=figma" height="50"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postman" height="50"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=docker" height="50"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vercel" height="50"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=linux" height="50"/>
 
 </marquee>
 
@@ -188,35 +181,27 @@ Modern fashion experience
 
 ## ◈ THE MACENZA APPROACH
 
-<table>
+<table width="100%">
 <tr>
 
 <td align="center" width="25%">
-
 <b>01 · UNDERSTAND</b><br>
 <sub>Understand the idea, business and requirement.</sub>
-
 </td>
 
 <td align="center" width="25%">
-
 <b>02 · DESIGN</b><br>
 <sub>Create a modern experience around the idea.</sub>
-
 </td>
 
 <td align="center" width="25%">
-
 <b>03 · BUILD</b><br>
 <sub>Develop reliable and scalable solutions.</sub>
-
 </td>
 
 <td align="center" width="25%">
-
 <b>04 · GROW</b><br>
 <sub>Improve, automate and evolve with the business.</sub>
-
 </td>
 
 </tr>
