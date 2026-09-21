@@ -5,12 +5,6 @@
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=900&color=ff1a1a&center=true&vCenter=true&width=850&lines=BEHIND+EVERY+BUILD%2C+THERE%E2%80%99S+A+DEEPER+IDEA.;DIGITAL+PRODUCTS+%7C+WEB+APPLICATIONS+%7C+AUTOMATION;DESIGN+%E2%86%92+DEVELOPMENT+%E2%86%92+REALITY" />
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=◉%20%20◌%20%20◎%20%20◌%20%20◉&fontSize=38&fontColor=ff1a1a&animation=twinkling"/>
-
-</div>
 <h2>🚀 WHO WE ARE</h2>
 
 <table>
