@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:06152e,75:006eff,100:000000&height=180&section=header&text=MACENZA&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BUILD.%20AUTOMATE.%20GROW.&descSize=16&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:020b1c,65:006eff,85:020b1c,100:000000&height=180&section=header&text=MACENZA&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BUILD.%20AUTOMATE.%20GROW.&descSize=16&descAlignY=60" width="100%"/>
+
+</div>
 
 <h2>🚀 WHO WE ARE</h2>
 
