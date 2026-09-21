@@ -7,7 +7,7 @@
 
 ## 🚀 WHO WE ARE
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="60%" valign="top">
@@ -43,18 +43,18 @@ We build digital products around real business requirements — from custom webs
 
 ## ◈ OUR WORK
 
-<table width="100%">
+<table width="100%" cellpadding="8" cellspacing="0">
 <tr>
 
 <td width="33.33%" align="center" valign="top">
 
-<br>
-
 <img src="https://img.shields.io/badge/🏢_MACENZA-000000?style=for-the-badge&labelColor=000000&color=006eff"/>
 
-<br><br>
+<br>
 
-Modern digital solutions
+<sub>
+Modern · Digital · Solutions
+</sub>
 
 <br>
 
@@ -63,23 +63,21 @@ Modern digital solutions
 <br><br>
 
 <a href="https://www.macenza.com/">
-<img src="https://img.shields.io/badge/VIEW_PROJECT_→-000000?style=for-the-badge&labelColor=006eff&color=000000"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT_→-006eff?style=flat-square&labelColor=000000"/>
 </a>
-
-<br>
 
 </td>
 
 
 <td width="33.33%" align="center" valign="top">
 
+<img src="https://img.shields.io/badge/👥_HRENSO-000000?style=for-the-badge&labelColor=000000&color=00c6ff"/>
+
 <br>
 
-<img src="https://img.shields.io/badge/👥_HRENSO-000000?style=for-the-badge&labelColor=000000&color=006eff"/>
-
-<br><br>
-
-Modern HRMS solutions
+<sub>
+Modern · HRMS · Solutions
+</sub>
 
 <br>
 
@@ -88,23 +86,21 @@ Modern HRMS solutions
 <br><br>
 
 <a href="https://www.hrenso.com/">
-<img src="https://img.shields.io/badge/VIEW_PROJECT_→-000000?style=for-the-badge&labelColor=006eff&color=000000"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT_→-00c6ff?style=flat-square&labelColor=000000"/>
 </a>
-
-<br>
 
 </td>
 
 
 <td width="33.33%" align="center" valign="top">
 
+<img src="https://img.shields.io/badge/👕_DIPLiM-000000?style=for-the-badge&labelColor=000000&color=7c4dff"/>
+
 <br>
 
-<img src="https://img.shields.io/badge/👕_DIPLiM-000000?style=for-the-badge&labelColor=000000&color=006eff"/>
-
-<br><br>
-
-Modern fashion experience
+<sub>
+Modern · Fashion · Experience
+</sub>
 
 <br>
 
@@ -113,10 +109,8 @@ Modern fashion experience
 <br><br>
 
 <a href="https://www.diplim.com/">
-<img src="https://img.shields.io/badge/VIEW_PROJECT_→-000000?style=for-the-badge&labelColor=006eff&color=000000"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT_→-7c4dff?style=flat-square&labelColor=000000"/>
 </a>
-
-<br>
 
 </td>
 
@@ -130,49 +124,70 @@ Modern fashion experience
 
 <marquee behavior="scroll" direction="left" scrollamount="6">
 
-<img src="https://skillicons.dev/icons?i=html" height="50"/>
+<img src="https://skillicons.dev/icons?i=html" height="48"/>
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" height="50"/>
+
+<img src="https://skillicons.dev/icons?i=css" height="48"/>
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=js" height="50"/>
+
+<img src="https://skillicons.dev/icons?i=js" height="48"/>
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=typescript" height="50"/>
+
+<img src="https://skillicons.dev/icons?i=typescript" height="48"/>
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=react" height="50"/>
+
+<img src="https://skillicons.dev/icons?i=react" height="48"/>
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nextjs" height="50"/>
+
+<img src="https://skillicons.dev/icons?i=nextjs" height="48"/>
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs" height="48"/>
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=express" height="50"/>
+
+<img src="https://skillicons.dev/icons?i=express" height="48"/>
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=python" height="50"/>
+
+<img src="https://skillicons.dev/icons?i=python" height="48"/>
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=java" height="50"/>
+
+<img src="https://skillicons.dev/icons?i=java" height="48"/>
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb" height="48"/>
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+
+<img src="https://skillicons.dev/icons?i=mysql" height="48"/>
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=postgres" height="50"/>
+
+<img src="https://skillicons.dev/icons?i=postgres" height="48"/>
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=firebase" height="50"/>
+
+<img src="https://skillicons.dev/icons?i=firebase" height="48"/>
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=git" height="50"/>
+
+<img src="https://skillicons.dev/icons?i=git" height="48"/>
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
+
+<img src="https://skillicons.dev/icons?i=github" height="48"/>
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+
+<img src="https://skillicons.dev/icons?i=vscode" height="48"/>
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=figma" height="50"/>
+
+<img src="https://skillicons.dev/icons?i=figma" height="48"/>
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=postman" height="50"/>
+
+<img src="https://skillicons.dev/icons?i=postman" height="48"/>
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=docker" height="50"/>
+
+<img src="https://skillicons.dev/icons?i=docker" height="48"/>
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vercel" height="50"/>
+
+<img src="https://skillicons.dev/icons?i=vercel" height="48"/>
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=linux" height="50"/>
+
+<img src="https://skillicons.dev/icons?i=linux" height="48"/>
 
 </marquee>
 
@@ -185,23 +200,31 @@ Modern fashion experience
 <tr>
 
 <td align="center" width="25%">
+
 <b>01 · UNDERSTAND</b><br>
 <sub>Understand the idea, business and requirement.</sub>
+
 </td>
 
 <td align="center" width="25%">
+
 <b>02 · DESIGN</b><br>
 <sub>Create a modern experience around the idea.</sub>
+
 </td>
 
 <td align="center" width="25%">
+
 <b>03 · BUILD</b><br>
 <sub>Develop reliable and scalable solutions.</sub>
+
 </td>
 
 <td align="center" width="25%">
+
 <b>04 · GROW</b><br>
 <sub>Improve, automate and evolve with the business.</sub>
+
 </td>
 
 </tr>
