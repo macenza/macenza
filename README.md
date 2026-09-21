@@ -14,7 +14,11 @@
 
 <b>Macenza</b> creates modern digital experiences by combining thoughtful design, reliable development, and practical business solutions.
 
+<br><br>
+
 We build digital products around real business requirements — from custom websites and web applications to automation, modern interfaces, and scalable digital systems.
+
+<br><br>
 
 <b>✨ What we focus on:</b><br>
 🌐 Custom Website Development<br>
@@ -39,59 +43,71 @@ We build digital products around real business requirements — from custom webs
 
 ## ◈ OUR WORK
 
-<table>
-<tr>
-
-<td width="6%" align="left" valign="middle">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:06152e,100:006eff&height=90&section=header&animation=twinkling" width="100%"/>
 
-</td>
+</div>
 
-<td width="29%" align="center" valign="middle">
+<table>
+<tr>
 
-<b>🏢 MACENZA</b><br>
-Modern digital solutions<br>
-<sub>Websites · Web Apps · Automation</sub><br><br>
+<td width="33%" align="center" valign="top">
+
+### 🏢 MACENZA
+
+Modern digital solutions
+
+<sub>Websites · Web Apps · Automation</sub>
+
+<br><br>
 
 <a href="https://www.macenza.com/">
-<img src="https://img.shields.io/badge/VIEW_PROJECT_→-006eff?style=for-the-badge&labelColor=000000&color=006eff"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT_→-006eff?style=for-the-badge&labelColor=000000"/>
 </a>
 
 </td>
 
-<td width="30%" align="center" valign="middle">
+<td width="34%" align="center" valign="top">
 
-<b>👥 HRENSO</b><br>
-Modern HRMS solutions<br>
-<sub>HRMS · Management · Business Tools</sub><br><br>
+### 👥 HRENSO
+
+Modern HRMS solutions
+
+<sub>HRMS · Management · Business Tools</sub>
+
+<br><br>
 
 <a href="https://www.hrenso.com/">
-<img src="https://img.shields.io/badge/VIEW_PROJECT_→-006eff?style=for-the-badge&labelColor=000000&color=006eff"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT_→-006eff?style=for-the-badge&labelColor=000000"/>
 </a>
 
 </td>
 
-<td width="29%" align="center" valign="middle">
+<td width="33%" align="center" valign="top">
 
-<b>👕 DIPLiM</b><br>
-Modern fashion experience<br>
-<sub>Fashion · E-Commerce · Shopping</sub><br><br>
+### 👕 DIPLiM
+
+Modern fashion experience
+
+<sub>Fashion · E-Commerce · Shopping</sub>
+
+<br><br>
 
 <a href="https://www.diplim.com/">
-<img src="https://img.shields.io/badge/VIEW_PROJECT_→-006eff?style=for-the-badge&labelColor=000000&color=006eff"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT_→-006eff?style=for-the-badge&labelColor=000000"/>
 </a>
-
-</td>
-
-<td width="6%" align="right" valign="middle">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:006eff,50:06152e,100:000000&height=90&section=footer&animation=twinkling" width="100%"/>
 
 </td>
 
 </tr>
 </table>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:006eff,50:06152e,100:000000&height=90&section=footer&animation=twinkling" width="100%"/>
+
+</div>
 
 
 ## ⚡ TECHNOLOGY STACK
@@ -176,23 +192,31 @@ Modern fashion experience<br>
 <tr>
 
 <td align="center" width="25%">
+
 <b>01 · UNDERSTAND</b><br>
 <sub>Understand the idea, business and requirement.</sub>
+
 </td>
 
 <td align="center" width="25%">
+
 <b>02 · DESIGN</b><br>
 <sub>Create a modern experience around the idea.</sub>
+
 </td>
 
 <td align="center" width="25%">
+
 <b>03 · BUILD</b><br>
 <sub>Develop reliable and scalable solutions.</sub>
+
 </td>
 
 <td align="center" width="25%">
+
 <b>04 · GROW</b><br>
 <sub>Improve, automate and evolve with the business.</sub>
+
 </td>
 
 </tr>
